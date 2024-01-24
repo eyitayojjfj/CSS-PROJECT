@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #e3f9ff;
+    font-family: sans-serif;
+}
+.head{
+    color: red;
+}
+
+.hero{
+    text-align: right;
+}
+.hero li{
+    display: inline-block;
+    margin: 10px 20px;
+    list-style: none;  
+    cursor: pointer;
+}
+.asi{
+    padding: 20px;
+}
+.sec{
+    padding-left: 10px;
+}
+.sec form{
+    border: 1px solid black;
+    
+}
+.foot{
+    margin-top: 30px;
+}
+
